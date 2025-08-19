@@ -1,0 +1,19 @@
+.sans-serif {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(250, 140, 159);
+    
+}
+
+.size24px {
+    font-size: 24px;
+}
+
+#no2 {
+    color: rgb(26, 26, 242);
+    font-size: 36px;
+}
+
+#no4 {
+    font-weight: bold;
+    background-color: rgb(36, 228, 100);
+}
